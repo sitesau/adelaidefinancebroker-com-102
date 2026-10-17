@@ -1,0 +1,22 @@
+{
+  "wheel_id": 374,
+  "structure": "umbrella",
+  "slug": "adelaidefinancebroker-com-102",
+  "project": "finance-broker-adelaide-glossary-9eaa461975640a67989c245c85d00c",
+  "parent_t1_ref": "adelaidefinancebroker-com-150",
+  "node_role": "feeder",
+  "money_target": "adelaidefinancebroker.com.au",
+  "primary_kw": "finance broker adelaide glossary",
+  "intended_url": "http://finance-broker-adelaide-glossary-9eaa461975640a67989c245c85d00c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8671b1936c950ddb",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/finance-broker-adelaide-85b0ccd449d624d879802df36013852b0581/",
+      "anchor": "more on finance broker adelaide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
